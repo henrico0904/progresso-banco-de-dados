@@ -12,5 +12,7 @@ CREATE TABLE artistas (
 
 INSERT INTO artistas (nome, tipo, membros, genero_musical, pais_origem, ano_inicio, musica_mais_ouvida, ativo)
 VALUES
-('Tyler, the Creator', 'Solo', 1, 'Pop, Hip-hop, Rap', 'USA', 2007, 'See You Again', TRUE );
-
+('Tyler, the Creator', 'Solo', 1, 'Pop, Hip-hop, Rap', 'USA', 2007, 'See You Again', TRUE )
+('Travis Scott', 'Solo', 1, 'Rap, Hip-Hop', 'USA', 2008, 'Goosebumps(feat: Kendrick Lamar)', TRUE)
+('Frank Ocean', 'Solo', 1, 'R&B, Indie Rock, Hip-Hop', 2010,'Pink+White', False )
+;
