@@ -16,3 +16,4 @@ VALUES
 ('Travis Scott', 'Solo', 1, 'Rap, Hip-Hop', 'USA', 2008, 'Goosebumps(feat: Kendrick Lamar)', TRUE)
 ('Frank Ocean', 'Solo', 1, 'R&B, Indie Rock, Hip-Hop', 2010,'Pink+White', False )
 ;
+
