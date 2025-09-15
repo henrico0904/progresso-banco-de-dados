@@ -10,3 +10,7 @@ CREATE TABLE artistas (
     ativo BOOLEAN DEFAULT TRUE
 );
 
+INSERT INTO artistas (nome, tipo, membros, genero_musical, pais_origem, ano_inicio, musica_mais_ouvida, ativo)
+VALUES
+('Tyler, the Creator', 'Solo', 1, 'Pop, Hip-hop, Rap', 'USA', 2007, 'See You Again', TRUE );
+
