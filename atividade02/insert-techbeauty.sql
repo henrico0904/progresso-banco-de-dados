@@ -1,4 +1,4 @@
-CREATE DATABASE beautytechdatabase;
+CREATE DATABASE beautytech01;
 
 CREATE TABLE produtos (
     id SERIAL PRIMARY KEY,
@@ -37,3 +37,6 @@ VALUES
 ('Desodorante Dove', 'Dove', 12.99, 'Higiene', 10),
 ('Esmalte Impala', 'Impala', 7.90, 'Unhas', 30),
 ('Creme Anti-Idade Nivea', 'Nivea', 59.90, 'Skincare', 8);
+
+
+SELECT * FROM produtos;
