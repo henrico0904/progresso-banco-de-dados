@@ -6,3 +6,4 @@ WHERE preco < 15;
 
 DELETE FROM produtos
 WHERE marca = 'Nivea';
+
